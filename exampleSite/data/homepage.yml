@@ -18,9 +18,9 @@ feature:
   - name: Evidence-based
     icon: ti-package
     content: All artwork information is linked to primary sources and easily verifiable.
-  - name: 24h Service
+  - name: Up-to-date
     icon: ti-alarm-clock
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: 'Newly added artwork information can be released at any point in time. '
   - name: Value For Money
     icon: ti-credit-card
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
