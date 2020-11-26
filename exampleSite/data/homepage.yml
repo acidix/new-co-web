@@ -24,18 +24,20 @@ feature:
 service:
   enable: true
   service_item:
-  - title: It is the most advanced digital marketing and it company.
+  - title: A Global Publishing Platform for Art Information
     images:
     - images/service-1.png
     - images/service-2.png
     - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: |
+      Digital Archive Suite:
+      <ul>
+      <li>Create digital archives that store and organize thousands of documents. </li>
+      <li> All text in archival resources is full-text searchable. </li>
+      <li> Designed by digital humanity experts based on invaluable experience. </li>
+      </ul>
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
   - title: It is a privately owned Information and cyber security company
