@@ -9,11 +9,12 @@ banner:
     link: "#"
 feature:
   enable: true
-  title: Something You Need To Know
+  title: ''
   feature_item:
-  - name: Clean Code
+  - name: Accessible
     icon: ti-pulse
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Detailed artwork information is available anytime, anywhere to one and
+      all equally.
   - name: Object Oriented
     icon: ti-package
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
