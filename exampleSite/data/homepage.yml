@@ -66,16 +66,17 @@ service:
       enable: false
       label: Check it out
       link: "#"
-  - title: A company standing different from others
+  - title: Reliable Artwork Information
     images:
     - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: |-
+      <ul>
+      <li>All artwork information vetted by authorized organizations. </li>
+      <li>Artwork information across artists aggregated on one platform. </li>
+      <li>Filter options for 50+ criteria included. Identification of relevant artworks made easy.</li>
+      </ul>
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
 screenshot:
