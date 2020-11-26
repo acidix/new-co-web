@@ -40,17 +40,18 @@ service:
       enable: false
       label: Check it out
       link: "#"
-  - title: It is a privately owned Information and cyber security company
+  - title: Cataloguing Module
     images:
     - images/service-1.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: |-
+      <ul>
+      <li>Create evidence-based digital catalogue raisonnés. </li>
+      <li> Use Getty vocabulary for indexing and description. </li>
+      <li> Present selected artwork information to the public. </li>
+      </ul>
     button:
       enable: true
-      label: Check it out
+      label: Request demo
       link: "#"
   - title: It’s a team of experienced and skilled people with distributions
     images:
