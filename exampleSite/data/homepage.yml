@@ -1,10 +1,10 @@
 ---
 banner:
-  title: Composing reliable <br/>artwork information <br/>made easy
+  title: Composing reliable artwork information <br/>made easy
   image: images/banner-art.svg
   content: ''
   button:
-    enable: true
+    enable: false
     label: Contact With Us
     link: "#"
 feature:
