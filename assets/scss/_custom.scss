@@ -5,9 +5,10 @@ h2 ~ ul > li {
   padding: 5px 0;
 }
 
-.slider{
+.slider {
   position:relative;
-  & h1{
+  
+  h1 {
     position:absolute;
     left: 5%;
     bottom: 10%;
