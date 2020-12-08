@@ -20,7 +20,7 @@ weight = 1
 [[menu.footer_middle]]
 name = "FAQ"
 url = "faq"
-weight = 3
+weight = 1
 [[menu.footer_middle]]
 name = "Terms & Conditions"
 url = "terms-and-conditions"
@@ -28,18 +28,6 @@ weight = 2
 [[menu.footer_middle]]
 name = "Privacy Policy"
 url = "privacy-policy"
-weight = 1
-[[menu.footer_right]]
-URL = "faq"
-name = "FAQ"
-weight = 1
-[[menu.footer_right]]
-URL = "terms-conditions"
-name = "Terms & Conditions"
-weight = 2
-[[menu.footer_right]]
-URL = "privacy-policy"
-name = "Privacy Policy"
 weight = 3
 [[menu.main]]
 URL = "faq"
