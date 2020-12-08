@@ -9,24 +9,14 @@ theme = "bigspring"
 title = "New Co."
 [markup.goldmark.renderer]
 unsafe = true
+[menu]
+footer_middle = []
 [[menu.footer_left]]
-URL = "#"
+URL = "blog"
+name = "News"
+[[menu.footer_left]]
+URL = "/"
 name = "About Us"
-[[menu.footer_left]]
-URL = "#"
-name = "Quick Start"
-[[menu.footer_left]]
-URL = "pricing"
-name = "Pricing"
-[[menu.footer_middle]]
-URL = "pricing"
-name = "Pricing"
-[[menu.footer_middle]]
-URL = "#"
-name = "Platform"
-[[menu.footer_middle]]
-URL = "#"
-name = "Features"
 [[menu.footer_right]]
 URL = "privacy-policy"
 name = "Privacy Policy"
@@ -40,10 +30,6 @@ name = "FAQ"
 URL = "blog"
 name = "Blog"
 weight = 1
-[[menu.main]]
-URL = "pricing"
-name = "Pricing"
-weight = 2
 [[menu.main]]
 URL = "contact"
 name = "Contact"
