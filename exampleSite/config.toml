@@ -63,6 +63,7 @@ footer_menu_middle = "Product"
 footer_menu_right = "Support"
 logo = "images/logo.png"
 logo_width = "200px"
+social = []
 [params.navigation_button]
 enable = true
 label = "Get in touch"
@@ -82,7 +83,3 @@ link = "plugins/slick/slick.min.js"
 [params.preloader]
 enable = false
 preloader = ""
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-title = "twitter"
