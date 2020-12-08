@@ -1,6 +1,6 @@
 // This file is empty within the template
 // You can use it to override CSS from within your project
 
-h2 + ul > li {
+h2 ~ ul > li {
   padding: 5px 0;
 }
