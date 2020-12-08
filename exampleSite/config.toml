@@ -48,7 +48,7 @@ footer_menu_left = "Caia"
 footer_menu_middle = "Support"
 footer_menu_right = ""
 logo = "/images/logo-small.png"
-logo_width = "200px"
+logo_width = "100px"
 social = []
 [params.navigation_button]
 enable = true
