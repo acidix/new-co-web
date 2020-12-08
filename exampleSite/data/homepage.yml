@@ -1,7 +1,13 @@
 ---
 banner:
   title: Composing reliable artwork information <br/>made easy
-  image: images/banner-art.svg
+  images: 
+     - name: Banner
+       image: images/banner-art.svg
+       tagline: Composing reliable artwork information made easy
+     - name: Banner 2
+       image: images/banner-art.svg
+       tagline: Lorem Ipsum lorem ipsum lorem
   content: ''
   button:
     enable: false
