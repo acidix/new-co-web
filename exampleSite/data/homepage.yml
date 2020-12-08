@@ -12,14 +12,14 @@ feature:
   title: ''
   feature_item:
   - name: Accessible
-    icon: ti-pulse
+    icon: ti-user
     content: Detailed artwork information is available anytime, anywhere to one and
       all equally.
   - name: Evidence-based
-    icon: ti-package
+    icon: ti-medall
     content: All artwork information is linked to primary sources and easily verifiable.
   - name: Up-to-date
-    icon: ti-alarm-clock
+    icon: ti-time
     content: 'Newly added artwork information can be released at any point in time. '
 service:
   enable: true
