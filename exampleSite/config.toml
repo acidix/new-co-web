@@ -39,10 +39,10 @@ URL = "faq"
 name = "FAQ"
 weight = 4
 [params]
-author = "New Co."
+author = "Caia"
 contact_form_action = "#"
-copyright = "New Co. All Rights Reserved"
-description = "This is a fancy New Co. Tagline"
+copyright = "Caia All Rights Reserved"
+description = "This is a fancy Caia Tagline"
 footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
 footer_menu_left = "Caia"
 footer_menu_middle = "Support"
