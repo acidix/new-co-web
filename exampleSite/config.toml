@@ -10,20 +10,20 @@ title = "New Co."
 [markup.goldmark.renderer]
 unsafe = true
 [menu]
-footer_middle = []
+footer_right = []
 [[menu.footer_left]]
 URL = "blog"
 name = "News"
 [[menu.footer_left]]
 URL = "/"
 name = "About Us"
-[[menu.footer_right]]
+[[menu.footer_middle]]
 URL = "privacy-policy"
 name = "Privacy Policy"
-[[menu.footer_right]]
+[[menu.footer_middle]]
 URL = "terms-conditions"
 name = "Terms & Conditions"
-[[menu.footer_right]]
+[[menu.footer_middle]]
 URL = "faq"
 name = "FAQ"
 [[menu.main]]
