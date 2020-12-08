@@ -10,6 +10,10 @@ title = "New Co."
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer_left]]
+name = "News"
+url = "blog"
+weight = 2
+[[menu.footer_left]]
 URL = "#"
 name = "About Us"
 weight = 1
