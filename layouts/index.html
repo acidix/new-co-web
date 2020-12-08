@@ -13,8 +13,17 @@
         <div><a href="{{ .link | safeURL }}" class="btn btn-primary">{{ .label }}</a></div>
         {{ end }}
         {{ end }}
-
-        {{with .image}}<img src="{{ . | absURL }}" class="img-fluid mt-5" width="750px">{{end}}
+  
+        {{with .images}}
+        <div {{if gt (len .images) 1}}class="slider" {{end}}>
+          {{ range .images }}
+          <div class="slide">
+            <img src="{{ . | .image }}" class="img-fluid">
+            <h1>{{.tagline}}</h1>
+          </div>
+          {{ end }}
+        </div>
+        {{end}}
       </div>
     </div>
   </div>
