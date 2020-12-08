@@ -6,8 +6,12 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-10 mx-auto text-center">
-        <h1 class="mb-3">{{ .title | markdownify }}</h1>
-        <p class="mb-4">{{ .content | markdownify }}</p>
+        {{ with .title }}
+        <h1 class="mb-3">{{ . | markdownify }}</h1>
+        {{ end }}
+        {{ with .content }}
+        <p class="mb-4">{{ . | markdownify }}</p>
+        {{ end }}
         {{ if .button.enable }}
         {{ with .button }}
         <div><a href="{{ .link | safeURL }}" class="btn btn-primary">{{ .label }}</a></div>
