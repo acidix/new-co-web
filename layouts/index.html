@@ -19,7 +19,7 @@
         {{ end }}
   
         {{with .images}}
-        <div {{if gt (len .) 1}}class="slider" {{end}}>
+        <div {{if gt (len .) 1}}class="frontpage-slider" {{end}}>
           {{ range . }}
           <div class="slide">
             <img src="{{ .image }}" class="img-fluid">
