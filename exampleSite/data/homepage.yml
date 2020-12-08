@@ -57,7 +57,7 @@ service:
     button:
       enable: true
       label: Request demo
-      link: "#"
+      link: contact
   - title: Instantly Ready for Mobile Devices
     images:
     - images/service-2.png
