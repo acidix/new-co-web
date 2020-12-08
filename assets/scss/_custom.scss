@@ -4,3 +4,14 @@
 h2 ~ ul > li {
   padding: 5px 0;
 }
+
+.slider{
+  position:relative;
+  h1{
+    position:absolute;
+    left: 5%;
+    bottom: 10%;
+    display: block;
+    background: rgba(255,255,255,0.3);
+  }
+}
