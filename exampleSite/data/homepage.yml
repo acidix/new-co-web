@@ -30,7 +30,6 @@ service:
     - images/service-2.png
     - images/service-3.png
     content: |
-      Digital Archive Suite:
       <ul>
       <li>Create digital archives that store and organize thousands of documents. </li>
       <li> All text in archival resources is full-text searchable. </li>
