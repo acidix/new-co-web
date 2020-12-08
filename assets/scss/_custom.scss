@@ -7,11 +7,12 @@ h2 ~ ul > li {
 
 .slider{
   position:relative;
-  h1{
+  & h1{
     position:absolute;
     left: 5%;
     bottom: 10%;
     display: block;
-    background: rgba(255,255,255,0.3);
+    text-align: left;
+    background: rgba(255,255,255,.8);
   }
 }
