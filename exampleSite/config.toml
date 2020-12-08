@@ -9,38 +9,35 @@ theme = "bigspring"
 title = "New Co."
 [markup.goldmark.renderer]
 unsafe = true
+[menu]
+footer_right = []
 [[menu.footer_left]]
+URL = "blog"
 name = "News"
-url = "blog"
-weight = 2
 [[menu.footer_left]]
-URL = "#"
+URL = "/"
 name = "About Us"
-weight = 1
 [[menu.footer_middle]]
-name = "FAQ"
-url = "faq"
-weight = 1
-[[menu.footer_middle]]
-name = "Terms & Conditions"
-url = "terms-and-conditions"
-weight = 2
-[[menu.footer_middle]]
-name = "Privacy Policy"
-url = "privacy-policy"
-weight = 3
-[[menu.main]]
 URL = "faq"
 name = "FAQ"
-weight = 3
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 2
+[[menu.footer_middle]]
+URL = "terms-conditions"
+name = "Terms & Conditions"
+[[menu.footer_middle]]
+URL = "privacy-policy"
+name = "Privacy Policy"
 [[menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 1
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 3
+[[menu.main]]
+URL = "faq"
+name = "FAQ"
+weight = 4
 [params]
 author = "New Co."
 contact_form_action = "#"
