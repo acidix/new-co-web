@@ -1,4 +1,4 @@
-baseURL = "http://examplesite.org/"
+baseURL = "http://caia.art/"
 disqusShortname = ""
 googleAnalytics = ""
 languageCode = "en-us"
@@ -6,7 +6,7 @@ languageName = "En"
 paginate = "3"
 summaryLength = "15"
 theme = ""
-title = "New Co."
+title = "Caia"
 [markup.goldmark.renderer]
 unsafe = true
 [menu]
