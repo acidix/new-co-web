@@ -22,5 +22,14 @@
 		dots: true,
 		arrows: false
 	});
+	
+	//frontpage slider
+	$('.frontpage-slider').slick({
+		slidesToShow: 1,
+		slidesToScroll: 1,
+		autoplay: true,
+		dots: false,
+		arrows: false
+	});
 
 })(jQuery);
