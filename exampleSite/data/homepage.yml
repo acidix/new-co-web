@@ -3,7 +3,7 @@ banner:
   title: ''
   images:
   - name: Banner
-    image: images/banner-art.svg
+    image: images/slider_1.jpg
     tagline: Composing reliable artwork information made easy
   - name: Banner 2
     image: images/banner-art.svg
