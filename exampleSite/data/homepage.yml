@@ -67,7 +67,7 @@ service:
       link: contact
   - title: Instantly Ready for Mobile Devices
     images:
-    - images/service-2.png
+    - images/mockup.png
     content: |-
       <ul>
       <li>Access artwork information the way you need it, when you need it.</li>
