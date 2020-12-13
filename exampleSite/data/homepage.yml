@@ -41,9 +41,7 @@ service:
   service_item:
   - title: A Global Publishing Platform for Art Information
     images:
-    - images/service-1.png
-    - images/service-2.png
-    - images/service-3.png
+    - images/dig_archives.png
     content: |
       <ul>
       <li>Create digital archives that store and organize thousands of documents. </li>
