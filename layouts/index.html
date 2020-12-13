@@ -22,7 +22,7 @@
         <div {{if gt (len .) 1}}class="frontpage-slider" {{end}}>
           {{ range . }}
           <div class="slide">
-            <img src="{{ .image }}" class="img-fluid">
+            <img src="{{ .image | absURL }}" class="img-fluid">
             <h2><span>{{ .tagline }}</span></h2>
           </div>
           {{ end }}
@@ -80,7 +80,7 @@
       <div class="col-md-6 order-1 order-md-2 mb-4 mb-md-0">
         <div {{if gt (len .images) 1}}class="slider" {{end}}>
           {{ range .images }}
-          <img src="{{ . | absURL }}" class="img-fluid {{if .stretchImage}}fill-height{{end}}">
+          <img src="{{ .url | absURL }}" class="img-fluid {{if .stretchImage}}fill-height{{end}}">
           {{ end }}
         </div>
       </div>
