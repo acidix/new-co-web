@@ -2,6 +2,9 @@
 banner:
   title: ''
   images:
+  - name: "3"
+    image: images/slider_3.jpg
+    tagline: ''
   - name: Banner
     image: images/slider_1.jpg
     tagline: Composing reliable artwork information made easy
