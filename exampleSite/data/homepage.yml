@@ -80,7 +80,7 @@ service:
       link: "#"
   - title: Reliable Artwork Information
     images:
-    - images/service-3.png
+    - images/reliable.png
     content: |-
       <ul>
       <li>All artwork information vetted by authorized organizations. </li>
