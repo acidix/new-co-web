@@ -42,7 +42,7 @@ service:
   - title: A Global Publishing Platform for Art Information
     images:
     - images/dig_archives.png
-    full-height-image: false
+    stretchImage: false
     content: |
       <ul>
       <li>Create digital archives that store and organize thousands of documents. </li>
@@ -56,7 +56,7 @@ service:
   - title: Cataloguing Module
     images:
     - images/cataloguing.png
-    full-height-image: false
+    stretchImage: false
     content: |-
       <ul>
       <li>Create evidence-based digital catalogue raisonnés. </li>
@@ -70,7 +70,7 @@ service:
   - title: Instantly Ready for Mobile Devices
     images:
     - images/mockup.png
-    full-height-image: true
+    stretchImage: true
     content: |-
       <ul>
       <li>Access artwork information the way you need it, when you need it.</li>
@@ -84,7 +84,7 @@ service:
   - title: Reliable Artwork Information
     images:
     - images/reliable.png
-    full-height-image: false
+    stretchImage: false
     content: |-
       <ul>
       <li>All artwork information vetted by authorized organizations. </li>
