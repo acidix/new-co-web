@@ -2,6 +2,12 @@
 banner:
   title: ''
   images:
+  - name: ''
+    image: ''
+    tagline: ''
+  - name: "4"
+    image: images/slider_4.jpg
+    tagline: ''
   - name: "3"
     image: images/slider_3.jpg
     tagline: ''
