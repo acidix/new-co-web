@@ -54,7 +54,7 @@ service:
       link: "#"
   - title: Cataloguing Module
     images:
-    - images/service-1.png
+    - images/cataloguing.png
     content: |-
       <ul>
       <li>Create evidence-based digital catalogue raisonnés. </li>
