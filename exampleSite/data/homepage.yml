@@ -2,8 +2,8 @@
 banner:
   title: ''
   images:
-  - name: ''
-    image: ''
+  - name: "5"
+    image: images/slider_5.jpg
     tagline: ''
   - name: "4"
     image: images/slider_4.jpg
