@@ -100,11 +100,11 @@ screenshot:
   title: Experience the best <br> workflow with us
   image: images/screenshot.svg
 call_to_action:
-  enable: false
+  enable: true
   title: Ready to get started?
-  image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  image: ''
+  content: Contact us to get an individual tour and discuss how our product can fit
+    your workflow!
   button:
     enable: true
     label: Experience our solution
