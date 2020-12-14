@@ -28,4 +28,7 @@ h2 ~ ul > li {
     top: -70px;
     position: relative;
     margin-bottom: -140px;
+    @include mobile {
+      margin-bottom: -70px;
+    }
 }
